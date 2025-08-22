@@ -14,14 +14,13 @@ Meu foco é criar soluções analíticas que otimizem processos e fortaleçam a 
 
 ### **Linguagens & Query** 
 
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white).
-  - **SQL** (SELECT, JOINS, Agrupamentos, Subqueries, Otimização)
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white). ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white)
-  - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Automação de Scripts)
+- **SQL** (SELECT, JOINS, Agrupamentos, Subqueries, Otimização)
+
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Automação de Scripts)
 
 ### **Metodologias Ágeis e de Projetos** 
 
@@ -43,27 +42,25 @@ Meu foco é criar soluções analíticas que otimizem processos e fortaleçam a 
 
 ### **Análise de Dados e DataViz**
 
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
-  - **Power Query e Linguagem M** (Colunas calculadas, personalizadas e condicionais, Transformação, Mesclagem e Classificação dos Dados)
-  - **DAX** (Medidas Dinâmicas, Indicadores de Performance (KPIs), Cálculos Temporais e Cálculos Personalizados para visualizações)
-  - **Gráficos e Analises** (Histogramas, Boxplots, Scatter Plots, Heatmaps, Análises de Correlação e Identificação de Outliers)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+- **Power Query e Linguagem M** (Colunas calculadas, personalizadas e condicionais, Transformação, Mesclagem e Classificação dos Dados)
 
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
-  - **Excel** (Funções e Fórmulas, Tabelas Dinâmicas, Gráficos Dinâmicos, Ferramentas de Análise de Dados e Macros/VBA)
+- **DAX** (Medidas Dinâmicas, Indicadores de Performance (KPIs), Cálculos Temporais e Cálculos Personalizados para visualizações)
+
+- **Gráficos e Analises** (Histogramas, Boxplots, Scatter Plots, Heatmaps, Análises de Correlação e Identificação de Outliers)
+
+- **Excel** (Funções e Fórmulas, Tabelas Dinâmicas, Gráficos Dinâmicos, Ferramentas de Análise de Dados e Macros/VBA)
 
 ### **Frameworks e Plataformas de Desenvolvimento**
 
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-  - **AWS** (EC2, S3, RDS)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+- **AWS** (EC2, S3, RDS)
 
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-  - **GIT** (Staging, Commits, Branching, Merging, Rebase)
+- **GIT** (Staging, Commits, Branching, Merging, Rebase)
 
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-  - **GITHUB** (Repositórios, Pull Requests, Issues)
+- **GITHUB** (Repositórios, Pull Requests, Issues)
 
-- ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-  - **VSCode** (Extensões, IntelliSense, Debugging, Snippets, Git Integration)
+- **VSCode** (Extensões, IntelliSense, Debugging, Snippets, Git Integration)
 
 - **Notion** (Bases de Dados, Templates, Kanban, Colaboração, Widgets)
 
